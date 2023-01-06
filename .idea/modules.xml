@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/gateway-service/Gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/Gateway-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Microservices.iml" filepath="$PROJECT_DIR$/Microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/billing-service/facturation-service.iml" filepath="$PROJECT_DIR$/billing-service/facturation-service.iml" />
     </modules>
   </component>
 </project>
